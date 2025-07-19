@@ -33,4 +33,39 @@ Welcome to the official repository for the **CodeAlpha Data Science Internship**
 ---
 
 ## 📁 Project Structure
+CodeAlpha_DataScienceTasks/
+├── TASK1_Iris_Classification.py
+├── TASK2_Unemployment_Analysis.py
+├── TASK3_Car_Price_Prediction.py
+├── TASK4_Sales_Prediction.py
+├── requirements.txt
+└── README.md
 
+
+---
+
+## ⚙️ Installation
+
+git clone https://github.com/yourusername/CodeAlpha_DataScienceTasks.git
+cd CodeAlpha_DataScienceTasks
+pip install -r requirements.txt
+
+## 💾 Datasets Used
+
+* [Iris Dataset](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)
+* [Unemployment in India (Kaggle)](https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india)
+* [Car Price Prediction Dataset](https://www.kaggle.com/datasets/vijayaadithyanvg/car-price-predictionused-cars)
+* [Advertising Sales Dataset](https://www.kaggle.com/datasets/bumba5341/advertisingcsv)
+
+> 💡 Download datasets from the above links and place the CSV files in the same folder as the scripts.
+
+---
+
+## 🛠 Tools & Libraries
+
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* Matplotlib
+* Seaborn
