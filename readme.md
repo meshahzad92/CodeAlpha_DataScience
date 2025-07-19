@@ -1,10 +1,3 @@
-Here's a complete, polished `README.md` for your GitHub repository titled **`CodeAlpha_DataScienceTasks`**. It covers all 4 tasks, usage, installation, and project structure.
-
----
-
-### ✅ `README.md` (copy and paste directly)
-
-```markdown
 # 🚀 CodeAlpha Data Science Internship Tasks
 
 Welcome to the official repository for the **CodeAlpha Data Science Internship**. This project includes solutions for **all 4 major tasks** using Python and popular ML libraries.
@@ -41,46 +34,3 @@ Welcome to the official repository for the **CodeAlpha Data Science Internship**
 
 ## 📁 Project Structure
 
-```
-
-CodeAlpha\_DataScienceTasks/
-├── TASK1\_Iris\_Classification.py
-├── TASK2\_Unemployment\_Analysis.py
-├── TASK3\_Car\_Price\_Prediction.py
-├── TASK4\_Sales\_Prediction.py
-├── requirements.txt
-└── README.md
-
-````
-
----
-
-## ⚙️ Installation
-
-```bash
-git clone https://github.com/yourusername/CodeAlpha_DataScienceTasks.git
-cd CodeAlpha_DataScienceTasks
-pip install -r requirements.txt
-````
-
----
-
-## 💾 Datasets Used
-
-* [Iris Dataset](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)
-* [Unemployment in India (Kaggle)](https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india)
-* [Car Price Prediction Dataset](https://www.kaggle.com/datasets/vijayaadithyanvg/car-price-predictionused-cars)
-* [Advertising Sales Dataset](https://www.kaggle.com/datasets/bumba5341/advertisingcsv)
-
-> 💡 Download datasets from the above links and place the CSV files in the same folder as the scripts.
-
----
-
-## 🛠 Tools & Libraries
-
-* Python
-* Pandas
-* NumPy
-* Scikit-learn
-* Matplotlib
-* Seaborn
